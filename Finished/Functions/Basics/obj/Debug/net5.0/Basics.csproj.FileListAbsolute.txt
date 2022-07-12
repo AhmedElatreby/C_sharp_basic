@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\refint\Basics.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\ref\Basics.dll

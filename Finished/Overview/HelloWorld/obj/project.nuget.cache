@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "51lPtIcC+Q5kR5fyTt2BNgF67AtduJvBdGhXKd+cRK2+ZpovjgzZa4dyuCSIqLwfM5U4tjgKH1GgoXDSbtz9XA==",
+  "success": true,
+  "projectFilePath": "D:\\computing\\C#\\Ex_Files_Learning_C_Sharp\\Exercise Files\\Finished\\Overview\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
