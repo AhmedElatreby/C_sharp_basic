@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\refint\VarsAndData.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll
