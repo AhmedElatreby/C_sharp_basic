@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\bin\Debug\net5.0\BreakContinue.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\refint\BreakContinue.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\BreakContinue.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\BreakContinue\obj\Debug\net5.0\ref\BreakContinue.dll
