@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\bin\Debug\net5.0\Conditionals.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\refint\Conditionals.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\Conditionals.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-if\obj\Debug\net5.0\ref\Conditionals.dll
