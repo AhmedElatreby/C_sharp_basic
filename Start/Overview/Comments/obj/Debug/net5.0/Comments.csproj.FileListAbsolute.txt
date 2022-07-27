@@ -1,0 +1,17 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\refint\Comments.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\Comments.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net5.0\ref\Comments.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net5.0\Comments.xml
