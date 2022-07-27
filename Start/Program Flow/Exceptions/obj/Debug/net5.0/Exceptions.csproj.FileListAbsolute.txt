@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\refint\Exceptions.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
