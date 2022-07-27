@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\refint\WhileLoops.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net5.0\ref\WhileLoops.dll
