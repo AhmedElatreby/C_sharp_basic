@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net5.0\ConditionalOps.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\refint\ConditionalOps.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ConditionalOps.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net5.0\ref\ConditionalOps.dll
