@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Start",
+      "appliesTo": "Start/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Operators",
+      "appliesTo": "Start/Overview/Operators/Operators.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "Start/Overview/Operators/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

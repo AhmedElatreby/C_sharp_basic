@@ -39,9 +39,6 @@ namespace ForLoops
             }
             Console.WriteLine("O appeared {0}", count);
 
-
-
-
         }
     }
 }
