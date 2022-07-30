@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net5.0\Builder.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\refint\Builder.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net5.0\ref\Builder.dll
