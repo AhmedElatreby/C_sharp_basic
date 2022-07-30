@@ -15,9 +15,6 @@ namespace ProgChallengeStart
             Console.WriteLine("I'm thinking of a number between 0 and 20.");
             Console.WriteLine("Enter your guess, or -1 to give up.");
 
-            // taking input from the user
-
-
             // Keep track of the number of guesses and the current user guess
             int guessNum = 0;
             int guessCount = 0;
@@ -34,7 +31,8 @@ namespace ProgChallengeStart
                 // Check if the user entered something other than number
                 if (!result)
                 {
-                    Console.WriteLine("Hmmm, that doesn't look like a number. Please try again and enter a number");
+                    Console.WriteLine("Hmmm, that doesn't look like a number." +
+                    " Please try again and enter a number");
                 }
                 else
                 {
