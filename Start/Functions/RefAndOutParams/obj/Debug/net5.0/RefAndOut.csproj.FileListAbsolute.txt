@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\refint\RefAndOut.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\ref\RefAndOut.dll
