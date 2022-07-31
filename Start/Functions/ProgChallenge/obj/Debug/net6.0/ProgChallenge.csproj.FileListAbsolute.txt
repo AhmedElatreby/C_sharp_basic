@@ -1,0 +1,15 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\bin\Debug\net6.0\ProgChallenge.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\bin\Debug\net6.0\ProgChallenge.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\bin\Debug\net6.0\ProgChallenge.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\bin\Debug\net6.0\ProgChallenge.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\bin\Debug\net6.0\ProgChallenge.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\refint\ProgChallenge.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ProgChallenge.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\ProgChallenge\obj\Debug\net6.0\ref\ProgChallenge.dll
