@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\refint\MultiValues.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net5.0\ref\MultiValues.dll
