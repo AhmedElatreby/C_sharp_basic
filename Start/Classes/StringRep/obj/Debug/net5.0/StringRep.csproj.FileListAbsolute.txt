@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\refint\StringRep.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\ref\StringRep.dll
