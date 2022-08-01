@@ -31,7 +31,7 @@ namespace Builder
 
             // TODO: AppendJoin can iterate over a set of values
             sb.Append("He also jumped over ");
-            sb.AppendJoin(', ', animals);
+            sb.AppendJoin(',', animals);
 
             // TODO: Modify the content using Replace
             sb.Replace("fox", "cat");
