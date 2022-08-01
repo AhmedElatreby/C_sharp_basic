@@ -22,7 +22,6 @@ namespace Inheritance
         }
 
         // TODO: use the override keyword to override a base class method
-
         public override string GetDescription()
         {
             return $"{Name} by {Author}, {PageCount} pages";

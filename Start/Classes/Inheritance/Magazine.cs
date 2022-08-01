@@ -7,7 +7,6 @@ namespace Inheritance
     {
         private string _publisher;
 
-
         // TODO: use the base() keyword to initialize the base class
         public Magazine(string name, string publisher, int pagecount, decimal price)
                 : base(name, pagecount, price)
