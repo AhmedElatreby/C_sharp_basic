@@ -2,22 +2,35 @@ using System;
 
 namespace ProgChallenge
 {
-    class Account : Customer
+    class Account
     {
-        protected decimal Deposit { get; set; }
-        protected decimal Withdrawal { get; set; }
-        public Account(string FName, string LName, decimal Deposit, decimal Withdraw) : base(FName, LName)
-        {
+        private string _firstname;
+        private string _lastname;
 
+        public decimal Balance { get; set; }
+
+        public Account(string fname, string lname, decimal initial = 0.0m)
+        {
+            _firstname = fname;
+            _lastname = lname;
+            Balance = initial;
 
         }
 
-        public decimal Balance()
+        public string AccountOwner
         {
-            return Deposit - Withdrawal;
+            get => $"{_firstname} {_lastname}";
         }
 
+        public virtual void Deposit(decimal amount)
+        {
+            Balance += amount;
+        }
 
+        public virtual void Withdraw(decimal amount)
+        {
+            Balance -= amount;
+        }
 
     }
 

@@ -4,14 +4,19 @@ namespace ProgChallenge
 {
     class CheckingAcct : Account
     {
-        public CheckingAcct(string FName, string LName, decimal Deposit, decimal Withdraw) : base(FName, LName, Deposit, Withdraw)
+        private const decimal OVERDRAW_CHARGE = 20.0m;
+        public CheckingAcct(string fname, string lname, decimal initial) : base(fname, lname, initial)
         {
 
         }
 
-        public void Withdraw(decimal withdraw, decimal balance)
+        public override void Withdraw(decimal amount)
         {
-            withdraw = balance - withdraw;
+            if (amount > Balance)
+            {
+                amount += OVERDRAW_CHARGE;
+            }
+            base.Withdraw(amount);
 
         }
 
