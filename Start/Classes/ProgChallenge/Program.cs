@@ -10,7 +10,7 @@ namespace ProgChallenge
             CheckingAcct checking = new CheckingAcct("John", "Doe", 2500.0m);
 
             // Create the Savings Account with interest and initial balance
-            SavingsAcct saving = new SavingsAcct("Jane", "Doe", 0.025m, 1000.0m);
+            SavingAcct saving = new SavingAcct("Jane", "Doe", 0.025m, 1000.0m);
 
             // Check the balances
             // Expected output should be 2500 and 1000 at this point
@@ -58,7 +58,7 @@ namespace ProgChallenge
 
             // try to overdraw checking - should result in extra charge
             checking.Withdraw(3000.0m);
-            
+
             // Expected output should be -385 and 988.63
             Console.WriteLine($"Checking balance is {checking.Balance:C2}");
             Console.WriteLine($"Savings balance is {saving.Balance:C2}");
