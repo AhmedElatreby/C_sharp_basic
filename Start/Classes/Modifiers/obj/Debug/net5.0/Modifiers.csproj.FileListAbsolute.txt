@@ -1,0 +1,16 @@
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.exe
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.deps.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.runtimeconfig.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.runtimeconfig.dev.json
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.csproj.AssemblyReference.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfoInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfo.cs
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.csproj.CoreCompileInputs.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\refint\Modifiers.dll
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.pdb
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.genruntimeconfig.cache
+D:\computing\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Modifiers\obj\Debug\net5.0\ref\Modifiers.dll
